@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Chandra Mohan.S",
+    "occupation": "CSE student,Web devoleper",
+    "description": "React js and python lover",
+    "image": "chand.jpg",
+    "bio": "I am Chandra Mohan,I am a CSE student in Sri Krishna College Of Technology.Working on projects with react js and python",
+    "contactmessage": "Get in touch with me for react,javascript and python based works,specialy in the web devolepment domain",
+    "email": "chandrashanmugam007@gmail.com",
+    "phone": "9360740964",
+    "address": {
+      "street": "Nallur",
+      "city": "Tirupur",
+      "state": "India",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "#resume",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/chandra_mohan7/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Chandra-mohan31",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Sri Krishna College of Technology",
+        "degree": "B.E. CSE",
+        "graduated": "",
+        "description": "currently studying 2nd year"
+      }
+    ],
+    "work": [
+      {
+        "company": "Student",
+        "title": "Web Developer",
+        "years": "About to start freelancing",
+        "description": "working on cool React projects and cloned many big company's websites,which can be viewed below in my work"
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "React Native",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+     
+      {
+        "name": "HTML5",
+        "level": "90%"
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon-clone",
+        "category": "Amazon-clone built with React and firebase",
+        "image": "amazon.png",
+        "url": "https://newapp-22ead.web.app"
+      },
+      {
+        "title": "facebook-clone",
+        "category": "facebook-clone built using React and firebase",
+        "image": "facebook-clone.png",
+        "url": "https://social-media-app-afbda.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Devoleped using React and firebase",
+        "image": "covid19tracker.png",
+        "url": "https://covid19tracker-4c4f6.web.app/"
+      },
+      {
+        "title": "Talking Chat Bot",
+        "category": "Built using vanilla javascript",
+        "image": "Bot.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I am highly confident of my react and javascript skills,i am sure i can handle any kind of challenges and projects in the frontend.Soon will update my Backend skills.",
+        "user": "Chandra Mohan.S"
+      }
+    ]
+  }
+}
